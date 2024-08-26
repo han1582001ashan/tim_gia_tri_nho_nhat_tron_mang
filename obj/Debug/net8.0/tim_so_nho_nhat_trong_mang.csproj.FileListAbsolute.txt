@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\bin\Debug\net8.0\tim_so_nho_nhat_trong_mang.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\bin\Debug\net8.0\tim_so_nho_nhat_trong_mang.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\bin\Debug\net8.0\tim_so_nho_nhat_trong_mang.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\bin\Debug\net8.0\tim_so_nho_nhat_trong_mang.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\bin\Debug\net8.0\tim_so_nho_nhat_trong_mang.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\refint\tim_so_nho_nhat_trong_mang.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\tim_so_nho_nhat_trong_mang.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tim_so_nho_nhat_trong_mang\obj\Debug\net8.0\ref\tim_so_nho_nhat_trong_mang.dll
